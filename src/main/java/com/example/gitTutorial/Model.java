@@ -9,4 +9,5 @@ public class Model {
 	private String address;
 	private String L2;
 	private String R25353;
+	private String JKKK;
 }

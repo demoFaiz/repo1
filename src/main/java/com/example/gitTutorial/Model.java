@@ -8,4 +8,5 @@ public class Model {
 	private int xR;
 	private String address;
 	private String localPolice;
+
 }

@@ -7,6 +7,5 @@ public class Model {
 	private int xL;
 	private int xR;
 	private String address;
-	private String lP;
-
+	private String R;
 }

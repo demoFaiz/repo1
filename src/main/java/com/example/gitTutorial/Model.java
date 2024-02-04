@@ -6,6 +6,6 @@ public class Model {
 	private int age;
 	private int xL;
 	private int xR;
-	private String address;
+	private String addressL;
 	private String k;
 }

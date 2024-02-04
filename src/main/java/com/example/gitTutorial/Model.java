@@ -8,5 +8,6 @@ public class Model {
 	private int xR;
 	private String address;
 	private String L2;
+	private String R25353;
 	private String JKKK;
 }
